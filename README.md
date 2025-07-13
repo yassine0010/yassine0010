@@ -37,7 +37,9 @@
 
 ###
 
-<p align="left">[benayedyassine@isimsf.u-sfax.tn](mailto:benayedyassine@isimsf.u-sfax.tn)</p>
+<p align="left">
+  <a href="mailto:benayedyassine@isimsf.u-sfax.tn">benayedyassine@isimsf.u-sfax.tn</a>
+</p>
 
 ###
 
