@@ -33,6 +33,14 @@
 
 ###
 
+<h3 align="left">📫 How to Reach Me</h3>
+
+###
+
+<p align="left">[benayedyassine@isimsf.u-sfax.tn](mailto:benayedyassine@isimsf.u-sfax.tn)</p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
