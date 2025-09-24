@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="left">Yessine Ben Ayed  | Pre-Engineering Student at ISIMS University</h1>
+<h1 align="left">Yessine Ben Ayed  | Engineering Student at ISIMS University</h1>
 
 ###
 
