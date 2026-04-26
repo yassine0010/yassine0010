@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Yassine Ben Ayed
 
-**Full-Stack Engineer | DevOps Enthusiast | Competitive Programmer**
+**DevOps Enthusiast | Competitive Programmer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-ben-ayed)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yassine0010)
