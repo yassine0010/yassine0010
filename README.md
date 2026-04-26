@@ -15,25 +15,8 @@ I'm a computer science engineer from Tunisia passionate about building scalable 
 
 ---
 
-## 🛠️ Technical Skills
-
-**Languages:** Python, Bash, JavaScript/React
-
-**DevOps & Cloud:** Docker, Kubernetes, Jenkins, CI/CD, AWS, Terraform
-
-**Tools & Platforms:** Git, Linux, Azure, GitHub
-
-**Domains:** Microservices, Cloud Infrastructure, Frontend Development, Competitive Programming
 
 
-
-## 🌍 Languages
-
-- **Arabic** - Native
-- **French** - Professional
-- **English** - Intermediate
-
----
 
 ## 📫 Get In Touch
 
