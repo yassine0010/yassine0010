@@ -1,66 +1,135 @@
+# Hi there 👋 I'm Yassine Ben Ayed
+
+**Full-Stack Engineer | DevOps Enthusiast | Competitive Programmer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-ben-ayed)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yassine0010)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benayedyassine@isimsf.u-sfax.tn)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge)](tel:+21697799903)
+
+---
+
+## 👨‍💻 About Me
+
+I'm a computer science engineer from Tunisia passionate about building scalable applications and exploring DevOps technologies. Currently pursuing my Engineer's Degree at the Higher Institute of Computer Science and Multimedia of Sfax, with a strong foundation in algorithms, cloud infrastructure, and CI/CD pipelines.
+
+I'm driven by challenging problems and enjoy working with modern technologies to create efficient, production-ready solutions. Beyond development, I'm active in the tech community as the founder of IEEE Puzzlers, organizing innovative events to engage students in creative tech initiatives.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, Bash, JavaScript/React
+
+**DevOps & Cloud:** Docker, Kubernetes, Jenkins, CI/CD, AWS, Terraform
+
+**Tools & Platforms:** Git, Linux, Azure, GitHub
+
+**Domains:** Microservices, Cloud Infrastructure, Frontend Development, Competitive Programming
+
+---
+
+## 🚀 Featured Projects
+
+### 🐳 Microservices-Based Voting System
+**Feb 2026 – Mar 2026 | Docker, Kubernetes, CI/CD**
+
+A distributed voting application built with microservices architecture, fully containerized and orchestrated.
+
+- Configured Kubernetes resources (Deployments, Services, Ingress, StatefulSet)
+- Implemented automated CI/CD pipelines with Jenkins
+- Managed multi-environment deployments using Kubernetes Namespaces
+- Troubleshot service communication and container image issues
+
+**Tech Stack:** Docker, Kubernetes, Jenkins, CI/CD
+
+---
+
+### 🌐 IEEE Puzzlers Website
+**Nov 2025 – Dec 2025 | React, Azure, Jenkins**
+
+A dynamic platform for a student-led tech community featuring interactive content and event management.
+
+- Developed responsive frontend using React
+- Deployed on Azure VPS with continuous integration pipelines
+- Implemented automated testing and deployment workflows with Jenkins and Docker
+
+**Tech Stack:** React, Azure, Docker, Jenkins, CI/CD
+
+---
+
+### 📱 IEEE ISIMS SB App
+**Aug 2024 – Nov 2024**
+
+Mobile application serving 200+ IEEE ISIMS Student Branch members with news, event updates, and community engagement.
+
+- Centralized platform for member communication
+- Real-time updates on club initiatives and projects
+- Community engagement and event notifications
+
+---
+
+## 📚 Education
+
+**Engineer's Degree in Computer Science** *(Sep 2025 – Present)*
+- Higher Institute of Computer Science and Multimedia of Sfax, Tunisia
+- Relevant Coursework: Artificial Intelligence, Big Data, Computer Networks, UI/UX Design
+
+**Pre-Engineering Program** *(Oct 2023 – May 2025)*
+- Higher Institute of Computer Science and Multimedia of Sfax, Tunisia
+- Relevant Coursework: Algorithms, Mathematics, Competitive Programming, Operating Systems
+
+**Baccalaureate in Computer Science** *(Sep 2019 – Jun 2023)*
+- Ibn Sina High School, Mahdia, Tunisia
+- Final Grade: 15.77 / 20 (Good Grade)
+
+---
+
+## 🏆 Awards & Recognition
+
+- **🥇 1st Place – AINC'26** - AI project on real-time drinking water quality risk prediction
+- **🎖️ Best Poster Award – TSYP 12.0**
+
+---
+
+## 💡 Community & Activities
+
+### IEEE Puzzlers – ISIMS Student Branch
+**Founder & Media Manager** *(Feb 2025 – Present)*
+
+- Launched a new concept in Tunisia focusing on creative, engaging student events
+- Developed strategic social media campaigns with compelling visuals and interactive content
+- Building a community around innovative tech initiatives and problem-solving challenges
+
+---
+
+## 🌍 Languages
+
+- **Arabic** - Native
+- **French** - Professional
+- **English** - Intermediate
+
+---
+
+## 📜 Certifications
+
+- DevOps Pre-Requisite Course
+
+---
+
+## 📫 Get In Touch
+
+I'm always open to collaboration, tech discussions, and new opportunities!
+
+- 📧 **Email:** [benayedyassine@isimsf.u-sfax.tn](mailto:benayedyassine@isimsf.u-sfax.tn)
+- 📱 **Phone:** [+216 97799903](tel:+21697799903)
+- 🔗 **LinkedIn:** [Yassine Ben Ayed](https://www.linkedin.com/in/yassine-ben-ayed)
+- 💻 **GitHub:** [@yassine0010](https://github.com/yassine0010)
+
+---
+
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDh5OG9tNW4ybm52YnpqZm1sZWZ1ajg1cTNiNmd3enE5eDl0NWk0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"  />
+
+**Made with ❤️ by Yassine Ben Ayed**
+
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yassinebenayed/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ben_ayed_yessine/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yassine0010.yassine0010&"  />
-</div>
-
-###
-
-<h1 align="left">Yessine Ben Ayed  | Engineering Student at ISIMS University</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Yessine from Tunisia 🇹🇳<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning Devops Tools<br>- ⚡ In my free time  I enjoy designing and use Adobe XD to showcase my creativity.<br>- 👩‍💻 I’m also working on improving my problem-solving skills with Python.</p>
-
-###
-
-<h3 align="left">📫 How to Reach Me</h3>
-
-###
-
-<p align="left">
-  <a href="mailto:benayedyassine@isimsf.u-sfax.tn">benayedyassine@isimsf.u-sfax.tn</a>
-</p>
-
-###
-
-
-<h3 align="left">🌐 My Main Projects</h3>
-
-###
-
-<p align="left">-  IEEE ISIMS SB APP</p>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassine0010&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassine0010&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=yassine0010&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=yassine0010&no-bg=true&theme=apprentice" height="150" alt="trophy graph"  />
-</div>
-
-###
