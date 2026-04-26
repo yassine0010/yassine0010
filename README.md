@@ -25,23 +25,7 @@ I'm a computer science engineer from Tunisia passionate about building scalable 
 
 **Domains:** Microservices, Cloud Infrastructure, Frontend Development, Competitive Programming
 
----
 
-## 🚀 Featured Projects
-
-### 🐳 Microservices-Based Voting System
-**Feb 2026 – Mar 2026 | Docker, Kubernetes, CI/CD**
-
-A distributed voting application built with microservices architecture, fully containerized and orchestrated.
-
-- Configured Kubernetes resources (Deployments, Services, Ingress, StatefulSet)
-- Implemented automated CI/CD pipelines with Jenkins
-- Managed multi-environment deployments using Kubernetes Namespaces
-- Troubleshot service communication and container image issues
-
-**Tech Stack:** Docker, Kubernetes, Jenkins, CI/CD
-
----
 
 ## 🌍 Languages
 
